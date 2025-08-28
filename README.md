@@ -10,6 +10,7 @@ This project explores and compares two popular approaches in NLP model adaptatio
 ## Dataset
 
 - **IMDB Movie Reviews** – A well-balanced dataset with 50,000 labeled movie reviews (binary sentiment).
+- You can access the dataset via [Hugging Face Datasets – IMDB](https://huggingface.co/datasets/stanfordnlp/imdb).
 
 ## Methods Used
 
